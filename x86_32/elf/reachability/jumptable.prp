@@ -1,0 +1,1 @@
+CHECK( init(), LTL(G ! reach(0)) )
